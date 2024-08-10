@@ -1,0 +1,6 @@
+#letter_box{
+    display: flex;
+    height: 150px;
+    width: 100%;
+    background-color: bisque;
+}
