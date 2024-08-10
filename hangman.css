@@ -10,3 +10,17 @@
     height: 150px;
     background-color: lightcyan;
 }
+#lives{
+    display: flex;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(227, 255, 224);
+}
+
+.show{
+    display: block;
+}   
+
+.hide{
+    display: none;
+}
